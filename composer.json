@@ -1,5 +1,14 @@
 {
-    "name" : "zaka",
-    "description" : "test",
+    "name": "zaka",
+    "description": " ",
+  
+    "license": "zaka",
+    "authors": [
+        {
+            "name": "zaka",
+            "email": "123@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
     
 }
